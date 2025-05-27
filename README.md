@@ -6,8 +6,8 @@ Un programa que elimina el retroceso para varios juegos FPS.
 
 ## 📥 Enlaces Importantes
 
-- [Tutorial en YouTube](https://youtu.be/iLORnJRuyqw?si=n15YYw7HovE0E95a)
-- [Discord Oficial](https://discord.gg/todo-hack-official)
+- [📺 Tutorial en YouTube](https://youtu.be/iLORnJRuyqw?si=n15YYw7HovE0E95a)
+- [🎮 Discord Oficial](https://discord.gg/todo-hack-official)
 
 ## 🚀 Características
 
